@@ -1,5 +1,5 @@
-# Instagram-Post-Exercise
-This repository will hold files for the Instagram post exercise of the full-stack developer bootcamp
+# Excuse Generator Exercise
+This repository will hold files for the Excuse Generator exercise of the full-stack developer bootcamp
 
 To run the preview window, enter the following command:
 
